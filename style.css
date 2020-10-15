@@ -1,5 +1,11 @@
 img{
  max-height: 250px;
-  border: 2px solid rgb(26, 22, 22);
-  padding: 10px;
+  border: 8px double rgb(129, 28, 45);
+  padding: 10px; 
+}
+html{
+  background-color: rgba(136, 135, 135, 0.603)
+}
+html{
+  background-color: rgb(57, 155, 99)
 }
